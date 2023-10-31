@@ -1,0 +1,4 @@
+# Solution Architecture.
+
+***
+![](./Architecture.PNG)
